@@ -1,4 +1,4 @@
-(footprint "tactile_sw_3.5x6.0_through_hole"
+(footprint "reset_switch_3.5x6.0_through_hole"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "tactile_sw_3.5x6.0_through_hole"
+	(property "Value" "reset_switch_3.5x6.0_through_hole"
 		(at 0 5.1 0)
 		(unlocked yes)
 		(layer "F.Fab")
