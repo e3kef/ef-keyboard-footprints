@@ -79,8 +79,8 @@
 		(uuid "d1283392-3a91-40bd-87b0-fe707a155c1d")
 	)
 	(fp_circle
-		(center -19 8.15)
-		(end -18 8.15)
+		(center -19 -8.15)
+		(end -18 -8.15)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -88,6 +88,28 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "8a7b74d6-fd92-4aeb-92fc-31706748ae3c")
+	)
+	(fp_circle
+		(center -12 0)
+		(end -10.3 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "327e7d18-f9ed-4738-8755-7b0245d880e2")
+	)
+	(fp_circle
+		(center 12 0)
+		(end 13.7 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "2a9ba82f-3161-403d-ae96-b8076cc06fa0")
 	)
 	(fp_text user "+"
 		(at -19.9 3.5 0)
@@ -117,16 +139,16 @@
 	)
 	(pad "1" thru_hole circle
 		(at -19.25 0)
-		(size 2.286 2.286)
-		(drill 1.2)
+		(size 2.586 2.586)
+		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "5f1eac72-3329-42fe-bc11-280679c7358b")
 	)
 	(pad "2" thru_hole circle
 		(at 19.25 0)
-		(size 2.286 2.286)
-		(drill 1.2)
+		(size 2.586 2.586)
+		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "8aa5f77e-c5c2-46cf-b93c-899535b793b8")
