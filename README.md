@@ -8,7 +8,7 @@ KiCad footprints for keyboard
 - Choc_v2 (includes 1, 1.25, 1.5, 1.75u)
 - D_SOD123
 
-⚠️ As of March 30, 2026, this project has not been fully tested or verified.
+⚠️ 2026.03.30 this project has not been fully tested or verified.
 Use it at your own discretion and risk.
 
 ⚠️ 2026.04.15 D_SOD123 footprint contains a known issue and should not be used.
