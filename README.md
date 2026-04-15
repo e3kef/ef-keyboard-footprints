@@ -9,6 +9,6 @@ KiCad footprints for keyboard
 - D_SOD123
 
 ⚠️ As of March 30, 2026, this project has not been fully tested or verified.
-Use it at your own discretion and risk.
+Use it at your own discretion and risk.\n
 ⚠️ 2026.04.15 D_SOD123 footprint contains a known issue and should not be used.
 
